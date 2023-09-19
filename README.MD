@@ -13,3 +13,8 @@
 
 #### niliy - [Github](https://github.com/niliy01)
 * [ChatGPTTokenManage](https://www.gpttokenmanager.com/): GPTTokenManage | Easily track the length of your ChatGPT conversations with the Chrome extension
+
+#### gstar 
+* [stable-diffusion-prompts.com](https://stable-diffusion-prompts.com/): stable diffusion prompts | find your best stable diffusion prompts examples, 8000+ Best Stable Diffusion Prompts Examples, easy to make High Quality Image, find Good Prompts Examples .
+* [Ai All in One](ai-all-in.one) ：2W+ AI Navi Site、AI Tools、AI APPs、AI Start-Ups、OpenSouce Proj All in One Site.
+* [Prompts MBA](prompts.mba) ：Your Prompt MBA, 2W+ GPT professional Categorised Prompts. Satisfy all your needs.
